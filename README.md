@@ -40,6 +40,8 @@ adalah tools untuk mengecek nomer telpon internasional di berbagai negara ! term
 
 — Serbaguna – bermanfaat untuk OSINT, investigasi nomor asing, validasi nomor pelanggan, hingga keperluan riset keamanan siber
 
+— Gratis dari markas siber v 
+
 ---
 
 ### cara pakai di termux 
