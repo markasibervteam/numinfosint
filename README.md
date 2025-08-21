@@ -17,13 +17,18 @@ adalah tools untuk mengecek nomer telpon internasional di berbagai negara ! term
 
 ---
 
-## Fitur
+### Fitur
 
-— Mengecek validitas nomor di berbagai negara (bukan hanya Indonesia)
-— Mengetahui provider atau operator nomor
-— Mengetahui lokasi geografis dan zona waktu
-— Mendapat data tambahan dari API eksternal (line type, negara, carrier, dll)
-— Melihat format internasional dan detail nomor lokal
+•Mengecek validitas nomor di berbagai negara (bukan hanya Indonesia)
+
+•Mengetahui provider atau operator nomor
+
+•Mengetahui lokasi geografis dan zona waktu
+
+•Mendapat data tambahan dari API eksternal (line type, negara, carrier, dll)
+
+•Melihat format internasional dan detail nomor lokal
+
 
 ---
 
