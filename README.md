@@ -50,7 +50,7 @@ adalah tools untuk mengecek nomer telpon internasional di berbagai negara ! term
 
 • pkg install python -y
 
-• pkg install gitu -y
+• pkg install git -y
 
 • git clone https://github.com/markasibervteam/numinfosint.git
 
